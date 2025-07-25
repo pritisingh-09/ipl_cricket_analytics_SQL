@@ -1,0 +1,371 @@
+match_id,season,city,date,team1,team2,toss_winner,toss_decision,result,result_margin,winner,venue,player_of_match
+1,2019,Delhi,2019-05-03,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,runs,44,Chennai Super Kings,Arun Jaitley Stadium,Player_190
+2,2019,Mumbai,2019-03-18,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,bat,wickets,9,Lucknow Super Giants,Wankhede Stadium,Player_155
+3,2019,Jaipur,2019-03-23,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,field,tie,0,,Sawai Mansingh Stadium,Player_2
+4,2019,Delhi,2019-03-12,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,runs,6,Punjab Kings,Arun Jaitley Stadium,Player_98
+5,2019,Mumbai,2019-05-20,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,runs,36,Delhi Capitals,Wankhede Stadium,Player_76
+6,2019,Chennai,2019-04-09,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,runs,15,Kolkata Knight Riders,M.A. Chidambaram Stadium,Player_26
+7,2019,Bangalore,2019-05-21,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,tie,0,Sunrisers Hyderabad,M. Chinnaswamy Stadium,Player_180
+8,2019,Ahmedabad,2019-05-23,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,no result,0,Royal Challengers Bangalore,Narendra Modi Stadium,Player_70
+9,2019,Mumbai,2019-04-03,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,bat,runs,21,Gujarat Titans,Brabourne Stadium,Player_103
+10,2019,Kolkata,2019-04-05,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,no result,0,,Eden Gardens,Player_37
+11,2019,Ahmedabad,2019-03-05,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,field,no result,0,,Narendra Modi Stadium,Player_93
+12,2019,Chennai,2019-03-13,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,bat,wickets,7,Gujarat Titans,M.A. Chidambaram Stadium,Player_153
+13,2019,Ahmedabad,2019-04-25,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,runs,44,,Narendra Modi Stadium,Player_138
+14,2019,Delhi,2019-04-17,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,runs,47,Chennai Super Kings,Arun Jaitley Stadium,Player_185
+15,2019,Chennai,2019-03-18,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,bat,tie,0,Royal Challengers Bangalore,M.A. Chidambaram Stadium,Player_196
+16,2019,Lucknow,2019-03-02,Gujarat Titans,Mumbai Indians,Mumbai Indians,field,runs,24,Gujarat Titans,Ekana Cricket Stadium,Player_79
+17,2019,Chennai,2019-04-18,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,wickets,3,,M.A. Chidambaram Stadium,Player_169
+18,2019,Ahmedabad,2019-05-21,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,wickets,5,,Narendra Modi Stadium,Player_103
+19,2019,Ahmedabad,2019-03-19,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,wickets,2,Punjab Kings,Narendra Modi Stadium,Player_87
+20,2019,Lucknow,2019-03-28,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,bat,runs,15,Gujarat Titans,Ekana Cricket Stadium,Player_18
+21,2019,Ahmedabad,2019-05-05,Punjab Kings,Chennai Super Kings,Punjab Kings,field,no result,0,,Narendra Modi Stadium,Player_55
+22,2019,Kolkata,2019-04-12,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,field,runs,7,Lucknow Super Giants,Eden Gardens,Player_169
+23,2019,Hyderabad,2019-04-26,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,bat,no result,0,Rajasthan Royals,Rajiv Gandhi International Stadium,Player_187
+24,2019,Kolkata,2019-04-15,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,no result,0,Chennai Super Kings,Eden Gardens,Player_47
+25,2019,Hyderabad,2019-03-06,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,runs,6,,Rajiv Gandhi International Stadium,Player_193
+26,2019,Hyderabad,2019-04-09,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,wickets,7,Rajasthan Royals,Rajiv Gandhi International Stadium,Player_1
+27,2019,Jaipur,2019-03-19,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,tie,0,Sunrisers Hyderabad,Sawai Mansingh Stadium,Player_56
+28,2019,Mohali,2019-05-06,Gujarat Titans,Mumbai Indians,Gujarat Titans,bat,no result,0,,PCA Stadium,Player_129
+29,2019,Chennai,2019-04-04,Mumbai Indians,Gujarat Titans,Mumbai Indians,bat,runs,44,,M.A. Chidambaram Stadium,Player_61
+30,2019,Lucknow,2019-03-22,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,bat,tie,0,Kolkata Knight Riders,Ekana Cricket Stadium,Player_67
+31,2019,Delhi,2019-04-30,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,tie,0,,Arun Jaitley Stadium,Player_118
+32,2019,Hyderabad,2019-03-30,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,wickets,9,,Rajiv Gandhi International Stadium,Player_68
+33,2019,Kolkata,2019-05-10,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,no result,0,Punjab Kings,Eden Gardens,Player_140
+34,2019,Mumbai,2019-03-24,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,bat,tie,0,Lucknow Super Giants,Wankhede Stadium,Player_30
+35,2019,Delhi,2019-05-21,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,tie,0,,Arun Jaitley Stadium,Player_53
+36,2019,Hyderabad,2019-03-01,Delhi Capitals,Gujarat Titans,Gujarat Titans,bat,no result,0,Delhi Capitals,Rajiv Gandhi International Stadium,Player_71
+37,2019,Mumbai,2019-05-14,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,no result,0,,Brabourne Stadium,Player_142
+38,2019,Chennai,2019-05-05,Gujarat Titans,Mumbai Indians,Gujarat Titans,bat,runs,24,,M.A. Chidambaram Stadium,Player_150
+39,2019,Mumbai,2019-05-08,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,tie,0,Rajasthan Royals,Wankhede Stadium,Player_54
+40,2019,Ahmedabad,2019-03-06,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,wickets,3,Chennai Super Kings,Narendra Modi Stadium,Player_106
+41,2019,Mumbai,2019-04-08,Punjab Kings,Rajasthan Royals,Punjab Kings,field,runs,25,Punjab Kings,Brabourne Stadium,Player_10
+42,2019,Mohali,2019-04-11,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,runs,43,Kolkata Knight Riders,PCA Stadium,Player_50
+43,2019,Delhi,2019-03-29,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,tie,0,,Arun Jaitley Stadium,Player_8
+44,2019,Lucknow,2019-05-26,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,no result,0,Delhi Capitals,Ekana Cricket Stadium,Player_89
+45,2019,Lucknow,2019-05-14,Punjab Kings,Rajasthan Royals,Punjab Kings,field,wickets,5,,Ekana Cricket Stadium,Player_12
+46,2019,Ahmedabad,2019-05-11,Mumbai Indians,Gujarat Titans,Mumbai Indians,field,runs,43,Gujarat Titans,Narendra Modi Stadium,Player_85
+47,2019,Ahmedabad,2019-04-18,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,no result,0,Delhi Capitals,Narendra Modi Stadium,Player_179
+48,2019,Jaipur,2019-05-27,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,tie,0,,Sawai Mansingh Stadium,Player_104
+49,2019,Delhi,2019-04-15,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,tie,0,,Arun Jaitley Stadium,Player_120
+50,2019,Hyderabad,2019-03-22,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,bat,tie,0,Gujarat Titans,Rajiv Gandhi International Stadium,Player_24
+51,2019,Kolkata,2019-03-15,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,wickets,8,Delhi Capitals,Eden Gardens,Player_157
+52,2019,Jaipur,2019-03-25,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,wickets,1,Rajasthan Royals,Sawai Mansingh Stadium,Player_193
+53,2019,Bangalore,2019-03-26,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,wickets,2,,M. Chinnaswamy Stadium,Player_117
+54,2019,Ahmedabad,2019-04-29,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,field,no result,0,,Narendra Modi Stadium,Player_141
+55,2019,Hyderabad,2019-05-16,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,tie,0,,Rajiv Gandhi International Stadium,Player_197
+56,2019,Hyderabad,2019-04-29,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Kolkata Knight Riders,Rajiv Gandhi International Stadium,Player_86
+57,2019,Bangalore,2019-04-14,Gujarat Titans,Chennai Super Kings,Gujarat Titans,bat,wickets,4,Chennai Super Kings,M. Chinnaswamy Stadium,Player_17
+58,2019,Hyderabad,2019-05-23,Punjab Kings,Gujarat Titans,Gujarat Titans,bat,no result,0,Punjab Kings,Rajiv Gandhi International Stadium,Player_100
+59,2019,Hyderabad,2019-05-24,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,no result,0,Rajasthan Royals,Rajiv Gandhi International Stadium,Player_108
+60,2019,Hyderabad,2019-04-11,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,field,no result,0,Kolkata Knight Riders,Rajiv Gandhi International Stadium,Player_8
+61,2019,Hyderabad,2019-04-05,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,runs,6,Royal Challengers Bangalore,Rajiv Gandhi International Stadium,Player_165
+62,2019,Mumbai,2019-04-25,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,wickets,8,Royal Challengers Bangalore,Wankhede Stadium,Player_84
+63,2019,Jaipur,2019-03-12,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,runs,48,Delhi Capitals,Sawai Mansingh Stadium,Player_139
+64,2019,Mumbai,2019-03-08,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,wickets,1,Kolkata Knight Riders,Brabourne Stadium,Player_160
+65,2019,Mumbai,2019-04-06,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,0,Sunrisers Hyderabad,Brabourne Stadium,Player_197
+66,2019,Bangalore,2019-05-30,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,bat,runs,20,,M. Chinnaswamy Stadium,Player_148
+67,2019,Kolkata,2019-05-26,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,bat,tie,0,Rajasthan Royals,Eden Gardens,Player_176
+68,2019,Mohali,2019-04-27,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,tie,0,Chennai Super Kings,PCA Stadium,Player_4
+69,2019,Jaipur,2019-05-17,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,wickets,7,,Sawai Mansingh Stadium,Player_46
+70,2019,Hyderabad,2019-03-27,Delhi Capitals,Gujarat Titans,Gujarat Titans,field,tie,0,,Rajiv Gandhi International Stadium,Player_83
+71,2019,Hyderabad,2019-03-16,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,no result,0,,Rajiv Gandhi International Stadium,Player_87
+72,2019,Hyderabad,2019-05-23,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,tie,0,Royal Challengers Bangalore,Rajiv Gandhi International Stadium,Player_72
+73,2019,Mumbai,2019-05-25,Delhi Capitals,Gujarat Titans,Delhi Capitals,bat,no result,0,Delhi Capitals,Wankhede Stadium,Player_126
+74,2019,Mumbai,2019-04-23,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,runs,19,Kolkata Knight Riders,Brabourne Stadium,Player_57
+75,2020,Mumbai,2020-05-18,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,tie,0,,Brabourne Stadium,Player_109
+76,2020,Hyderabad,2020-03-11,Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,field,wickets,2,Lucknow Super Giants,Rajiv Gandhi International Stadium,Player_185
+77,2020,Bangalore,2020-05-19,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,bat,no result,0,,M. Chinnaswamy Stadium,Player_71
+78,2020,Chennai,2020-04-01,Gujarat Titans,Delhi Capitals,Gujarat Titans,field,tie,0,Gujarat Titans,M.A. Chidambaram Stadium,Player_46
+79,2020,Delhi,2020-03-21,Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,bat,tie,0,,Arun Jaitley Stadium,Player_179
+80,2020,Mumbai,2020-03-02,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,no result,0,Chennai Super Kings,Wankhede Stadium,Player_88
+81,2020,Chennai,2020-05-02,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,runs,37,Sunrisers Hyderabad,M.A. Chidambaram Stadium,Player_162
+82,2020,Lucknow,2020-04-20,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,bat,runs,36,Royal Challengers Bangalore,Ekana Cricket Stadium,Player_196
+83,2020,Ahmedabad,2020-04-10,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,field,tie,0,Kolkata Knight Riders,Narendra Modi Stadium,Player_151
+84,2020,Lucknow,2020-03-06,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,bat,wickets,5,,Ekana Cricket Stadium,Player_170
+85,2020,Ahmedabad,2020-05-20,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,no result,0,Kolkata Knight Riders,Narendra Modi Stadium,Player_116
+86,2020,Mumbai,2020-04-03,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,tie,0,,Wankhede Stadium,Player_180
+87,2020,Mumbai,2020-03-03,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,wickets,3,Kolkata Knight Riders,Brabourne Stadium,Player_69
+88,2020,Delhi,2020-04-23,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,no result,0,Mumbai Indians,Arun Jaitley Stadium,Player_177
+89,2020,Ahmedabad,2020-04-20,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,runs,28,Rajasthan Royals,Narendra Modi Stadium,Player_189
+90,2020,Chennai,2020-03-25,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,tie,0,,M.A. Chidambaram Stadium,Player_148
+91,2020,Ahmedabad,2020-04-03,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,no result,0,Royal Challengers Bangalore,Narendra Modi Stadium,Player_163
+92,2020,Jaipur,2020-04-23,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,runs,11,,Sawai Mansingh Stadium,Player_85
+93,2020,Mumbai,2020-04-04,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,runs,21,Delhi Capitals,Brabourne Stadium,Player_65
+94,2020,Mumbai,2020-05-25,Rajasthan Royals,Gujarat Titans,Gujarat Titans,field,wickets,9,Rajasthan Royals,Wankhede Stadium,Player_93
+95,2020,Mumbai,2020-05-16,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,field,wickets,5,,Wankhede Stadium,Player_113
+96,2020,Mumbai,2020-03-08,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,runs,36,Mumbai Indians,Brabourne Stadium,Player_105
+97,2020,Chennai,2020-05-09,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,tie,0,,M.A. Chidambaram Stadium,Player_131
+98,2020,Hyderabad,2020-05-17,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,wickets,7,,Rajiv Gandhi International Stadium,Player_49
+99,2020,Delhi,2020-04-24,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,tie,0,,Arun Jaitley Stadium,Player_1
+100,2020,Bangalore,2020-05-13,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,tie,0,Sunrisers Hyderabad,M. Chinnaswamy Stadium,Player_142
+101,2020,Kolkata,2020-04-24,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,no result,0,Sunrisers Hyderabad,Eden Gardens,Player_12
+102,2020,Jaipur,2020-04-28,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,wickets,9,Sunrisers Hyderabad,Sawai Mansingh Stadium,Player_152
+103,2020,Chennai,2020-03-03,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,wickets,7,,M.A. Chidambaram Stadium,Player_168
+104,2020,Mohali,2020-05-23,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,no result,0,Delhi Capitals,PCA Stadium,Player_82
+105,2020,Mumbai,2020-05-03,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,bat,tie,0,,Wankhede Stadium,Player_59
+106,2020,Mumbai,2020-03-11,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,tie,0,Rajasthan Royals,Brabourne Stadium,Player_8
+107,2020,Mohali,2020-05-22,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,wickets,9,Mumbai Indians,PCA Stadium,Player_106
+108,2020,Bangalore,2020-03-08,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,field,wickets,8,,M. Chinnaswamy Stadium,Player_150
+109,2020,Hyderabad,2020-05-06,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,tie,0,Delhi Capitals,Rajiv Gandhi International Stadium,Player_174
+110,2020,Mohali,2020-04-07,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,tie,0,,PCA Stadium,Player_117
+111,2020,Chennai,2020-04-23,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,tie,0,,M.A. Chidambaram Stadium,Player_148
+112,2020,Mumbai,2020-04-27,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,runs,39,Delhi Capitals,Brabourne Stadium,Player_191
+113,2020,Lucknow,2020-05-25,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,wickets,10,,Ekana Cricket Stadium,Player_65
+114,2020,Mumbai,2020-05-05,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,runs,38,Chennai Super Kings,Brabourne Stadium,Player_94
+115,2020,Mohali,2020-05-17,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,wickets,9,Chennai Super Kings,PCA Stadium,Player_94
+116,2020,Delhi,2020-04-03,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,tie,0,,Arun Jaitley Stadium,Player_30
+117,2020,Mumbai,2020-04-18,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,no result,0,Royal Challengers Bangalore,Brabourne Stadium,Player_4
+118,2020,Mohali,2020-05-08,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,tie,0,,PCA Stadium,Player_28
+119,2020,Lucknow,2020-05-10,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,runs,41,,Ekana Cricket Stadium,Player_119
+120,2020,Bangalore,2020-03-08,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,no result,0,Chennai Super Kings,M. Chinnaswamy Stadium,Player_30
+121,2020,Jaipur,2020-05-24,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,field,no result,0,,Sawai Mansingh Stadium,Player_151
+122,2020,Mumbai,2020-03-23,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,no result,0,,Brabourne Stadium,Player_72
+123,2020,Hyderabad,2020-05-29,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,runs,44,Kolkata Knight Riders,Rajiv Gandhi International Stadium,Player_95
+124,2020,Jaipur,2020-05-07,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,no result,0,Punjab Kings,Sawai Mansingh Stadium,Player_24
+125,2020,Mumbai,2020-05-07,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,bat,wickets,2,Lucknow Super Giants,Wankhede Stadium,Player_196
+126,2020,Kolkata,2020-03-18,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,bat,runs,18,,Eden Gardens,Player_38
+127,2020,Chennai,2020-05-11,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,tie,0,Delhi Capitals,M.A. Chidambaram Stadium,Player_61
+128,2020,Delhi,2020-03-24,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,no result,0,,Arun Jaitley Stadium,Player_135
+129,2020,Hyderabad,2020-05-26,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,wickets,10,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Player_12
+130,2020,Hyderabad,2020-05-04,Gujarat Titans,Delhi Capitals,Gujarat Titans,bat,no result,0,Delhi Capitals,Rajiv Gandhi International Stadium,Player_110
+131,2020,Chennai,2020-04-20,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,field,wickets,2,,M.A. Chidambaram Stadium,Player_33
+132,2020,Mohali,2020-05-04,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,field,no result,0,Gujarat Titans,PCA Stadium,Player_26
+133,2020,Jaipur,2020-04-14,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,bat,tie,0,Kolkata Knight Riders,Sawai Mansingh Stadium,Player_117
+134,2020,Jaipur,2020-03-27,Chennai Super Kings,Punjab Kings,Punjab Kings,field,wickets,8,Punjab Kings,Sawai Mansingh Stadium,Player_18
+135,2020,Jaipur,2020-05-11,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,field,runs,38,Chennai Super Kings,Sawai Mansingh Stadium,Player_144
+136,2020,Mohali,2020-03-19,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,tie,0,Rajasthan Royals,PCA Stadium,Player_91
+137,2020,Bangalore,2020-04-04,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,bat,tie,0,Gujarat Titans,M. Chinnaswamy Stadium,Player_143
+138,2020,Jaipur,2020-04-30,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,wickets,5,Delhi Capitals,Sawai Mansingh Stadium,Player_180
+139,2020,Mumbai,2020-03-24,Punjab Kings,Lucknow Super Giants,Punjab Kings,bat,no result,0,,Wankhede Stadium,Player_18
+140,2020,Ahmedabad,2020-03-12,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,no result,0,Chennai Super Kings,Narendra Modi Stadium,Player_88
+141,2020,Lucknow,2020-05-03,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,wickets,10,Delhi Capitals,Ekana Cricket Stadium,Player_13
+142,2020,Mumbai,2020-04-07,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,no result,0,,Brabourne Stadium,Player_107
+143,2020,Mohali,2020-05-10,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,bat,no result,0,Chennai Super Kings,PCA Stadium,Player_135
+144,2020,Jaipur,2020-03-25,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,tie,0,Mumbai Indians,Sawai Mansingh Stadium,Player_55
+145,2020,Mohali,2020-03-13,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,bat,no result,0,Lucknow Super Giants,PCA Stadium,Player_45
+146,2020,Ahmedabad,2020-04-30,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,bat,runs,28,Kolkata Knight Riders,Narendra Modi Stadium,Player_5
+147,2020,Lucknow,2020-03-13,Chennai Super Kings,Punjab Kings,Punjab Kings,field,no result,0,,Ekana Cricket Stadium,Player_75
+148,2020,Bangalore,2020-03-14,Mumbai Indians,Punjab Kings,Punjab Kings,field,no result,0,Mumbai Indians,M. Chinnaswamy Stadium,Player_28
+149,2021,Ahmedabad,2021-04-25,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,field,tie,0,Rajasthan Royals,Narendra Modi Stadium,Player_57
+150,2021,Ahmedabad,2021-05-27,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,tie,0,Chennai Super Kings,Narendra Modi Stadium,Player_187
+151,2021,Chennai,2021-05-03,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,wickets,10,Royal Challengers Bangalore,M.A. Chidambaram Stadium,Player_40
+152,2021,Hyderabad,2021-04-03,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,tie,0,,Rajiv Gandhi International Stadium,Player_39
+153,2021,Mumbai,2021-03-10,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,field,runs,23,,Brabourne Stadium,Player_130
+154,2021,Mumbai,2021-05-20,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,field,runs,42,Lucknow Super Giants,Wankhede Stadium,Player_24
+155,2021,Hyderabad,2021-04-17,Gujarat Titans,Rajasthan Royals,Gujarat Titans,field,wickets,6,,Rajiv Gandhi International Stadium,Player_155
+156,2021,Hyderabad,2021-03-02,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,runs,33,,Rajiv Gandhi International Stadium,Player_166
+157,2021,Hyderabad,2021-04-25,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,tie,0,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Player_100
+158,2021,Mumbai,2021-04-10,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,runs,36,Mumbai Indians,Brabourne Stadium,Player_174
+159,2021,Mohali,2021-05-22,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,tie,0,Royal Challengers Bangalore,PCA Stadium,Player_168
+160,2021,Lucknow,2021-04-27,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,no result,0,,Ekana Cricket Stadium,Player_165
+161,2021,Chennai,2021-03-07,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,field,tie,0,Royal Challengers Bangalore,M.A. Chidambaram Stadium,Player_80
+162,2021,Kolkata,2021-05-25,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,runs,19,Punjab Kings,Eden Gardens,Player_26
+163,2021,Mumbai,2021-03-06,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,bat,no result,0,,Wankhede Stadium,Player_40
+164,2021,Hyderabad,2021-04-25,Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,field,wickets,8,Royal Challengers Bangalore,Rajiv Gandhi International Stadium,Player_157
+165,2021,Ahmedabad,2021-05-15,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,wickets,6,Kolkata Knight Riders,Narendra Modi Stadium,Player_174
+166,2021,Jaipur,2021-05-16,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,wickets,5,Sunrisers Hyderabad,Sawai Mansingh Stadium,Player_14
+167,2021,Chennai,2021-05-05,Punjab Kings,Gujarat Titans,Punjab Kings,field,wickets,5,Punjab Kings,M.A. Chidambaram Stadium,Player_116
+168,2021,Kolkata,2021-04-17,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,no result,0,Rajasthan Royals,Eden Gardens,Player_14
+169,2021,Jaipur,2021-05-21,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,runs,21,Punjab Kings,Sawai Mansingh Stadium,Player_26
+170,2021,Bangalore,2021-05-01,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,wickets,8,Royal Challengers Bangalore,M. Chinnaswamy Stadium,Player_115
+171,2021,Delhi,2021-04-08,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,no result,0,,Arun Jaitley Stadium,Player_29
+172,2021,Mumbai,2021-03-27,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,no result,0,,Wankhede Stadium,Player_17
+173,2021,Mumbai,2021-05-12,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,bat,no result,0,Gujarat Titans,Wankhede Stadium,Player_1
+174,2021,Bangalore,2021-03-21,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,runs,25,Kolkata Knight Riders,M. Chinnaswamy Stadium,Player_121
+175,2021,Delhi,2021-05-22,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,tie,0,Rajasthan Royals,Arun Jaitley Stadium,Player_62
+176,2021,Bangalore,2021-03-27,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,tie,0,,M. Chinnaswamy Stadium,Player_165
+177,2021,Mumbai,2021-04-07,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,bat,no result,0,Sunrisers Hyderabad,Brabourne Stadium,Player_10
+178,2021,Mumbai,2021-04-09,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,no result,0,,Wankhede Stadium,Player_140
+179,2021,Delhi,2021-03-26,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,tie,0,,Arun Jaitley Stadium,Player_70
+180,2021,Jaipur,2021-04-12,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,wickets,8,Rajasthan Royals,Sawai Mansingh Stadium,Player_178
+181,2021,Chennai,2021-04-04,Gujarat Titans,Delhi Capitals,Delhi Capitals,bat,wickets,9,Delhi Capitals,M.A. Chidambaram Stadium,Player_76
+182,2021,Mumbai,2021-05-15,Chennai Super Kings,Punjab Kings,Punjab Kings,field,no result,0,Punjab Kings,Brabourne Stadium,Player_43
+183,2021,Mumbai,2021-05-13,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,runs,5,Sunrisers Hyderabad,Wankhede Stadium,Player_172
+184,2021,Mumbai,2021-03-03,Punjab Kings,Gujarat Titans,Punjab Kings,bat,no result,0,Punjab Kings,Brabourne Stadium,Player_9
+185,2021,Mohali,2021-04-15,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,wickets,8,,PCA Stadium,Player_95
+186,2021,Ahmedabad,2021-03-01,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,tie,0,Royal Challengers Bangalore,Narendra Modi Stadium,Player_64
+187,2021,Ahmedabad,2021-04-07,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,tie,0,Sunrisers Hyderabad,Narendra Modi Stadium,Player_181
+188,2021,Hyderabad,2021-05-15,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,bat,runs,29,Lucknow Super Giants,Rajiv Gandhi International Stadium,Player_45
+189,2021,Mumbai,2021-03-23,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,tie,0,,Brabourne Stadium,Player_77
+190,2021,Ahmedabad,2021-03-12,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,wickets,4,Royal Challengers Bangalore,Narendra Modi Stadium,Player_127
+191,2021,Hyderabad,2021-05-24,Gujarat Titans,Punjab Kings,Gujarat Titans,bat,tie,0,Gujarat Titans,Rajiv Gandhi International Stadium,Player_102
+192,2021,Jaipur,2021-03-15,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,bat,tie,0,Sunrisers Hyderabad,Sawai Mansingh Stadium,Player_165
+193,2021,Mohali,2021-03-27,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,bat,no result,0,Sunrisers Hyderabad,PCA Stadium,Player_129
+194,2021,Bangalore,2021-03-12,Chennai Super Kings,Gujarat Titans,Gujarat Titans,bat,tie,0,Chennai Super Kings,M. Chinnaswamy Stadium,Player_182
+195,2021,Chennai,2021-05-10,Gujarat Titans,Delhi Capitals,Delhi Capitals,bat,tie,0,,M.A. Chidambaram Stadium,Player_33
+196,2021,Chennai,2021-03-27,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,bat,tie,0,Lucknow Super Giants,M.A. Chidambaram Stadium,Player_145
+197,2021,Mumbai,2021-05-01,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,no result,0,,Wankhede Stadium,Player_159
+198,2021,Delhi,2021-04-03,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,field,no result,0,Sunrisers Hyderabad,Arun Jaitley Stadium,Player_77
+199,2021,Hyderabad,2021-03-11,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,wickets,6,Royal Challengers Bangalore,Rajiv Gandhi International Stadium,Player_156
+200,2021,Jaipur,2021-04-04,Punjab Kings,Lucknow Super Giants,Punjab Kings,field,runs,21,,Sawai Mansingh Stadium,Player_62
+201,2021,Kolkata,2021-05-14,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,tie,0,Delhi Capitals,Eden Gardens,Player_99
+202,2021,Mohali,2021-04-16,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,no result,0,Kolkata Knight Riders,PCA Stadium,Player_132
+203,2021,Mumbai,2021-03-19,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,no result,0,,Wankhede Stadium,Player_62
+204,2021,Mumbai,2021-05-01,Punjab Kings,Mumbai Indians,Mumbai Indians,field,no result,0,,Wankhede Stadium,Player_74
+205,2021,Bangalore,2021-04-02,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,tie,0,Rajasthan Royals,M. Chinnaswamy Stadium,Player_12
+206,2021,Kolkata,2021-04-25,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,field,no result,0,Lucknow Super Giants,Eden Gardens,Player_130
+207,2021,Lucknow,2021-04-18,Gujarat Titans,Delhi Capitals,Gujarat Titans,bat,no result,0,Gujarat Titans,Ekana Cricket Stadium,Player_96
+208,2021,Kolkata,2021-04-26,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,runs,9,Punjab Kings,Eden Gardens,Player_183
+209,2021,Hyderabad,2021-04-20,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,bat,tie,0,Gujarat Titans,Rajiv Gandhi International Stadium,Player_42
+210,2021,Ahmedabad,2021-05-04,Delhi Capitals,Punjab Kings,Punjab Kings,field,runs,24,Punjab Kings,Narendra Modi Stadium,Player_85
+211,2021,Mumbai,2021-04-06,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,wickets,1,Delhi Capitals,Brabourne Stadium,Player_150
+212,2021,Bangalore,2021-04-11,Gujarat Titans,Rajasthan Royals,Gujarat Titans,bat,runs,13,,M. Chinnaswamy Stadium,Player_5
+213,2021,Jaipur,2021-05-02,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,no result,0,,Sawai Mansingh Stadium,Player_189
+214,2021,Kolkata,2021-03-15,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,field,no result,0,,Eden Gardens,Player_81
+215,2021,Ahmedabad,2021-03-09,Gujarat Titans,Punjab Kings,Punjab Kings,field,no result,0,,Narendra Modi Stadium,Player_50
+216,2021,Kolkata,2021-04-12,Gujarat Titans,Delhi Capitals,Delhi Capitals,field,wickets,8,,Eden Gardens,Player_82
+217,2021,Delhi,2021-03-10,Gujarat Titans,Delhi Capitals,Gujarat Titans,field,tie,0,Delhi Capitals,Arun Jaitley Stadium,Player_198
+218,2021,Chennai,2021-04-07,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,tie,0,,M.A. Chidambaram Stadium,Player_192
+219,2021,Delhi,2021-05-29,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,bat,wickets,4,Kolkata Knight Riders,Arun Jaitley Stadium,Player_13
+220,2021,Mumbai,2021-05-16,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,bat,no result,0,Gujarat Titans,Brabourne Stadium,Player_85
+221,2021,Mumbai,2021-05-07,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,no result,0,,Wankhede Stadium,Player_123
+222,2021,Delhi,2021-05-28,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,wickets,9,,Arun Jaitley Stadium,Player_190
+223,2022,Jaipur,2022-05-28,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,no result,0,Royal Challengers Bangalore,Sawai Mansingh Stadium,Player_48
+224,2022,Mumbai,2022-05-18,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,tie,0,Mumbai Indians,Wankhede Stadium,Player_117
+225,2022,Bangalore,2022-05-15,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,field,runs,22,Gujarat Titans,M. Chinnaswamy Stadium,Player_42
+226,2022,Mumbai,2022-05-29,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,wickets,3,,Wankhede Stadium,Player_157
+227,2022,Ahmedabad,2022-04-11,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,bat,runs,12,Lucknow Super Giants,Narendra Modi Stadium,Player_36
+228,2022,Delhi,2022-04-19,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,tie,0,Mumbai Indians,Arun Jaitley Stadium,Player_85
+229,2022,Delhi,2022-03-13,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,bat,runs,30,Lucknow Super Giants,Arun Jaitley Stadium,Player_79
+230,2022,Chennai,2022-04-05,Gujarat Titans,Delhi Capitals,Delhi Capitals,field,wickets,4,,M.A. Chidambaram Stadium,Player_35
+231,2022,Jaipur,2022-05-23,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,runs,34,Sunrisers Hyderabad,Sawai Mansingh Stadium,Player_115
+232,2022,Lucknow,2022-03-06,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,wickets,10,,Ekana Cricket Stadium,Player_138
+233,2022,Hyderabad,2022-05-15,Punjab Kings,Gujarat Titans,Punjab Kings,bat,no result,0,,Rajiv Gandhi International Stadium,Player_24
+234,2022,Bangalore,2022-05-26,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,runs,36,,M. Chinnaswamy Stadium,Player_119
+235,2022,Jaipur,2022-03-14,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,wickets,10,,Sawai Mansingh Stadium,Player_19
+236,2022,Ahmedabad,2022-03-25,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,runs,19,Chennai Super Kings,Narendra Modi Stadium,Player_105
+237,2022,Mohali,2022-05-22,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,no result,0,Rajasthan Royals,PCA Stadium,Player_21
+238,2022,Mumbai,2022-03-24,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,no result,0,Gujarat Titans,Brabourne Stadium,Player_136
+239,2022,Mumbai,2022-04-27,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,no result,0,,Wankhede Stadium,Player_137
+240,2022,Hyderabad,2022-05-14,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,bat,wickets,2,Lucknow Super Giants,Rajiv Gandhi International Stadium,Player_9
+241,2022,Kolkata,2022-05-23,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,bat,runs,29,Lucknow Super Giants,Eden Gardens,Player_154
+242,2022,Mumbai,2022-05-10,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,wickets,1,Mumbai Indians,Wankhede Stadium,Player_36
+243,2022,Lucknow,2022-04-10,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,wickets,9,Punjab Kings,Ekana Cricket Stadium,Player_57
+244,2022,Ahmedabad,2022-04-21,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,no result,0,,Narendra Modi Stadium,Player_13
+245,2022,Mohali,2022-03-25,Rajasthan Royals,Gujarat Titans,Gujarat Titans,field,tie,0,Rajasthan Royals,PCA Stadium,Player_97
+246,2022,Kolkata,2022-05-14,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,field,wickets,8,,Eden Gardens,Player_15
+247,2022,Ahmedabad,2022-04-21,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,field,tie,0,Rajasthan Royals,Narendra Modi Stadium,Player_53
+248,2022,Mohali,2022-05-20,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,tie,0,Chennai Super Kings,PCA Stadium,Player_97
+249,2022,Chennai,2022-03-07,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,bat,wickets,6,Mumbai Indians,M.A. Chidambaram Stadium,Player_78
+250,2022,Hyderabad,2022-04-13,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,wickets,9,Chennai Super Kings,Rajiv Gandhi International Stadium,Player_83
+251,2022,Mumbai,2022-04-15,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,field,tie,0,Gujarat Titans,Brabourne Stadium,Player_132
+252,2022,Mohali,2022-05-28,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,no result,0,Sunrisers Hyderabad,PCA Stadium,Player_12
+253,2022,Mumbai,2022-03-13,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,wickets,4,Royal Challengers Bangalore,Wankhede Stadium,Player_85
+254,2022,Hyderabad,2022-03-24,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,field,no result,0,Kolkata Knight Riders,Rajiv Gandhi International Stadium,Player_118
+255,2022,Bangalore,2022-03-27,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,runs,34,,M. Chinnaswamy Stadium,Player_9
+256,2022,Jaipur,2022-05-15,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,bat,wickets,1,Mumbai Indians,Sawai Mansingh Stadium,Player_56
+257,2022,Lucknow,2022-04-01,Punjab Kings,Mumbai Indians,Mumbai Indians,field,runs,35,Punjab Kings,Ekana Cricket Stadium,Player_142
+258,2022,Delhi,2022-03-30,Mumbai Indians,Gujarat Titans,Gujarat Titans,bat,no result,0,,Arun Jaitley Stadium,Player_46
+259,2022,Bangalore,2022-04-26,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,bat,tie,0,,M. Chinnaswamy Stadium,Player_91
+260,2022,Mohali,2022-05-27,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,wickets,4,,PCA Stadium,Player_77
+261,2022,Chennai,2022-05-01,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,no result,0,Mumbai Indians,M.A. Chidambaram Stadium,Player_15
+262,2022,Hyderabad,2022-03-07,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,runs,34,,Rajiv Gandhi International Stadium,Player_11
+263,2022,Delhi,2022-05-22,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,bat,tie,0,,Arun Jaitley Stadium,Player_140
+264,2022,Mohali,2022-04-06,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,wickets,7,,PCA Stadium,Player_20
+265,2022,Lucknow,2022-05-12,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,field,wickets,2,Kolkata Knight Riders,Ekana Cricket Stadium,Player_129
+266,2022,Jaipur,2022-04-01,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,no result,0,Chennai Super Kings,Sawai Mansingh Stadium,Player_199
+267,2022,Hyderabad,2022-03-22,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,no result,0,,Rajiv Gandhi International Stadium,Player_111
+268,2022,Chennai,2022-03-13,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,bat,runs,6,,M.A. Chidambaram Stadium,Player_69
+269,2022,Mohali,2022-04-25,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,runs,20,Royal Challengers Bangalore,PCA Stadium,Player_114
+270,2022,Bangalore,2022-05-17,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,no result,0,Chennai Super Kings,M. Chinnaswamy Stadium,Player_143
+271,2022,Mumbai,2022-04-28,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,runs,39,,Wankhede Stadium,Player_154
+272,2022,Delhi,2022-03-22,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,wickets,10,Rajasthan Royals,Arun Jaitley Stadium,Player_134
+273,2022,Bangalore,2022-03-06,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,no result,0,Royal Challengers Bangalore,M. Chinnaswamy Stadium,Player_38
+274,2022,Jaipur,2022-03-24,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,tie,0,Rajasthan Royals,Sawai Mansingh Stadium,Player_65
+275,2022,Hyderabad,2022-05-13,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,runs,26,Kolkata Knight Riders,Rajiv Gandhi International Stadium,Player_86
+276,2022,Mohali,2022-05-07,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,tie,0,Sunrisers Hyderabad,PCA Stadium,Player_155
+277,2022,Bangalore,2022-03-11,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,no result,0,Punjab Kings,M. Chinnaswamy Stadium,Player_148
+278,2022,Jaipur,2022-03-22,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,wickets,10,,Sawai Mansingh Stadium,Player_140
+279,2022,Hyderabad,2022-04-05,Gujarat Titans,Mumbai Indians,Gujarat Titans,field,runs,27,Mumbai Indians,Rajiv Gandhi International Stadium,Player_173
+280,2022,Delhi,2022-04-19,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,runs,29,Kolkata Knight Riders,Arun Jaitley Stadium,Player_154
+281,2022,Ahmedabad,2022-03-22,Rajasthan Royals,Gujarat Titans,Gujarat Titans,bat,runs,7,Gujarat Titans,Narendra Modi Stadium,Player_197
+282,2022,Mumbai,2022-03-04,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,no result,0,Royal Challengers Bangalore,Brabourne Stadium,Player_28
+283,2022,Ahmedabad,2022-05-19,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,no result,0,Kolkata Knight Riders,Narendra Modi Stadium,Player_119
+284,2022,Mohali,2022-03-04,Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,field,tie,0,Gujarat Titans,PCA Stadium,Player_107
+285,2022,Delhi,2022-04-04,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,no result,0,Royal Challengers Bangalore,Arun Jaitley Stadium,Player_90
+286,2022,Mohali,2022-05-04,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,field,runs,2,Sunrisers Hyderabad,PCA Stadium,Player_88
+287,2022,Ahmedabad,2022-03-26,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,no result,0,Kolkata Knight Riders,Narendra Modi Stadium,Player_119
+288,2022,Bangalore,2022-04-13,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,wickets,8,Rajasthan Royals,M. Chinnaswamy Stadium,Player_152
+289,2022,Kolkata,2022-04-11,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,runs,35,,Eden Gardens,Player_48
+290,2022,Chennai,2022-04-20,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,tie,0,,M.A. Chidambaram Stadium,Player_153
+291,2022,Mohali,2022-05-03,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,wickets,5,,PCA Stadium,Player_158
+292,2022,Chennai,2022-03-17,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,wickets,6,Royal Challengers Bangalore,M.A. Chidambaram Stadium,Player_178
+293,2022,Lucknow,2022-05-23,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,field,wickets,8,Lucknow Super Giants,Ekana Cricket Stadium,Player_163
+294,2022,Bangalore,2022-05-02,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,field,wickets,6,Royal Challengers Bangalore,M. Chinnaswamy Stadium,Player_116
+295,2022,Hyderabad,2022-05-16,Punjab Kings,Mumbai Indians,Punjab Kings,bat,no result,0,Mumbai Indians,Rajiv Gandhi International Stadium,Player_105
+296,2022,Hyderabad,2022-04-02,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,runs,49,,Rajiv Gandhi International Stadium,Player_57
+297,2023,Ahmedabad,2023-05-04,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,no result,0,Kolkata Knight Riders,Narendra Modi Stadium,Player_141
+298,2023,Delhi,2023-03-14,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,bat,no result,0,,Arun Jaitley Stadium,Player_140
+299,2023,Delhi,2023-04-28,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,tie,0,Kolkata Knight Riders,Arun Jaitley Stadium,Player_23
+300,2023,Kolkata,2023-03-19,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,wickets,4,Chennai Super Kings,Eden Gardens,Player_53
+301,2023,Delhi,2023-05-09,Punjab Kings,Gujarat Titans,Punjab Kings,field,tie,0,,Arun Jaitley Stadium,Player_75
+302,2023,Bangalore,2023-03-23,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,bat,wickets,3,Chennai Super Kings,M. Chinnaswamy Stadium,Player_64
+303,2023,Mumbai,2023-04-13,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,tie,0,Punjab Kings,Brabourne Stadium,Player_161
+304,2023,Mumbai,2023-04-15,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,tie,0,,Brabourne Stadium,Player_178
+305,2023,Lucknow,2023-05-23,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,no result,0,,Ekana Cricket Stadium,Player_163
+306,2023,Ahmedabad,2023-04-27,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,wickets,8,Chennai Super Kings,Narendra Modi Stadium,Player_69
+307,2023,Ahmedabad,2023-05-26,Delhi Capitals,Punjab Kings,Delhi Capitals,field,runs,3,Punjab Kings,Narendra Modi Stadium,Player_26
+308,2023,Chennai,2023-05-30,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,runs,28,Mumbai Indians,M.A. Chidambaram Stadium,Player_52
+309,2023,Bangalore,2023-03-12,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,tie,0,,M. Chinnaswamy Stadium,Player_65
+310,2023,Jaipur,2023-03-07,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,runs,46,Mumbai Indians,Sawai Mansingh Stadium,Player_25
+311,2023,Bangalore,2023-03-28,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,runs,45,Sunrisers Hyderabad,M. Chinnaswamy Stadium,Player_88
+312,2023,Hyderabad,2023-03-11,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,runs,47,Royal Challengers Bangalore,Rajiv Gandhi International Stadium,Player_27
+313,2023,Bangalore,2023-05-01,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,wickets,2,,M. Chinnaswamy Stadium,Player_136
+314,2023,Hyderabad,2023-05-15,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,wickets,7,,Rajiv Gandhi International Stadium,Player_158
+315,2023,Chennai,2023-04-11,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,no result,0,,M.A. Chidambaram Stadium,Player_90
+316,2023,Delhi,2023-05-01,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,tie,0,,Arun Jaitley Stadium,Player_200
+317,2023,Ahmedabad,2023-04-04,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,runs,16,Kolkata Knight Riders,Narendra Modi Stadium,Player_127
+318,2023,Mumbai,2023-04-28,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,tie,0,Sunrisers Hyderabad,Brabourne Stadium,Player_34
+319,2023,Mohali,2023-03-09,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,field,runs,38,Lucknow Super Giants,PCA Stadium,Player_18
+320,2023,Mumbai,2023-05-13,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,no result,0,,Wankhede Stadium,Player_109
+321,2023,Ahmedabad,2023-05-30,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,field,tie,0,Chennai Super Kings,Narendra Modi Stadium,Player_21
+322,2023,Ahmedabad,2023-04-24,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,runs,20,,Narendra Modi Stadium,Player_179
+323,2023,Kolkata,2023-05-02,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,no result,0,Kolkata Knight Riders,Eden Gardens,Player_157
+324,2023,Chennai,2023-04-17,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,runs,11,,M.A. Chidambaram Stadium,Player_128
+325,2023,Bangalore,2023-03-25,Gujarat Titans,Delhi Capitals,Delhi Capitals,bat,tie,0,,M. Chinnaswamy Stadium,Player_188
+326,2023,Jaipur,2023-05-12,Mumbai Indians,Punjab Kings,Punjab Kings,bat,runs,32,Punjab Kings,Sawai Mansingh Stadium,Player_117
+327,2023,Lucknow,2023-03-29,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,tie,0,Mumbai Indians,Ekana Cricket Stadium,Player_198
+328,2023,Kolkata,2023-04-13,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,bat,wickets,1,Lucknow Super Giants,Eden Gardens,Player_121
+329,2023,Mumbai,2023-04-09,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,bat,wickets,7,Lucknow Super Giants,Wankhede Stadium,Player_185
+330,2023,Chennai,2023-04-28,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,runs,26,Chennai Super Kings,M.A. Chidambaram Stadium,Player_18
+331,2023,Mohali,2023-04-19,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,field,tie,0,Delhi Capitals,PCA Stadium,Player_52
+332,2023,Hyderabad,2023-04-01,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,wickets,3,Delhi Capitals,Rajiv Gandhi International Stadium,Player_2
+333,2023,Mohali,2023-05-10,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,field,no result,0,Kolkata Knight Riders,PCA Stadium,Player_189
+334,2023,Ahmedabad,2023-04-03,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,runs,10,Kolkata Knight Riders,Narendra Modi Stadium,Player_183
+335,2023,Ahmedabad,2023-05-05,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,runs,38,Kolkata Knight Riders,Narendra Modi Stadium,Player_25
+336,2023,Lucknow,2023-04-28,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,wickets,4,,Ekana Cricket Stadium,Player_75
+337,2023,Mohali,2023-03-25,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,wickets,2,Rajasthan Royals,PCA Stadium,Player_52
+338,2023,Bangalore,2023-04-04,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,bat,no result,0,Chennai Super Kings,M. Chinnaswamy Stadium,Player_81
+339,2023,Kolkata,2023-03-06,Gujarat Titans,Punjab Kings,Punjab Kings,field,tie,0,Punjab Kings,Eden Gardens,Player_31
+340,2023,Kolkata,2023-05-02,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,wickets,6,Delhi Capitals,Eden Gardens,Player_102
+341,2023,Bangalore,2023-03-26,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,field,wickets,2,Lucknow Super Giants,M. Chinnaswamy Stadium,Player_119
+342,2023,Mumbai,2023-05-21,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,wickets,7,Royal Challengers Bangalore,Wankhede Stadium,Player_96
+343,2023,Chennai,2023-03-29,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,no result,0,Chennai Super Kings,M.A. Chidambaram Stadium,Player_33
+344,2023,Mumbai,2023-04-16,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,no result,0,Punjab Kings,Wankhede Stadium,Player_186
+345,2023,Mumbai,2023-04-15,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,wickets,3,Rajasthan Royals,Brabourne Stadium,Player_71
+346,2023,Lucknow,2023-04-02,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,no result,0,Mumbai Indians,Ekana Cricket Stadium,Player_141
+347,2023,Jaipur,2023-04-26,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,wickets,9,Chennai Super Kings,Sawai Mansingh Stadium,Player_5
+348,2023,Ahmedabad,2023-04-06,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,tie,0,,Narendra Modi Stadium,Player_100
+349,2023,Lucknow,2023-04-25,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,runs,31,Punjab Kings,Ekana Cricket Stadium,Player_136
+350,2023,Bangalore,2023-05-02,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,bat,wickets,5,,M. Chinnaswamy Stadium,Player_137
+351,2023,Mohali,2023-05-12,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,tie,0,Kolkata Knight Riders,PCA Stadium,Player_189
+352,2023,Mohali,2023-04-02,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,bat,tie,0,Mumbai Indians,PCA Stadium,Player_45
+353,2023,Kolkata,2023-04-30,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,no result,0,,Eden Gardens,Player_1
+354,2023,Bangalore,2023-05-23,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,bat,runs,2,Kolkata Knight Riders,M. Chinnaswamy Stadium,Player_38
+355,2023,Ahmedabad,2023-03-11,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,no result,0,Chennai Super Kings,Narendra Modi Stadium,Player_151
+356,2023,Bangalore,2023-04-06,Delhi Capitals,Punjab Kings,Delhi Capitals,field,no result,0,,M. Chinnaswamy Stadium,Player_167
+357,2023,Kolkata,2023-03-24,Gujarat Titans,Punjab Kings,Gujarat Titans,field,tie,0,Punjab Kings,Eden Gardens,Player_33
+358,2023,Lucknow,2023-03-21,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,tie,0,,Ekana Cricket Stadium,Player_157
+359,2023,Hyderabad,2023-04-06,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,field,runs,16,,Rajiv Gandhi International Stadium,Player_89
+360,2023,Hyderabad,2023-04-26,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,wickets,2,Chennai Super Kings,Rajiv Gandhi International Stadium,Player_90
+361,2023,Mumbai,2023-04-16,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,no result,0,,Wankhede Stadium,Player_43
+362,2023,Ahmedabad,2023-03-26,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,wickets,3,Punjab Kings,Narendra Modi Stadium,Player_116
+363,2023,Mumbai,2023-04-06,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,runs,22,Mumbai Indians,Wankhede Stadium,Player_44
+364,2023,Chennai,2023-03-20,Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,runs,28,,M.A. Chidambaram Stadium,Player_168
+365,2023,Mumbai,2023-05-24,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,wickets,7,Rajasthan Royals,Wankhede Stadium,Player_179
+366,2023,Mumbai,2023-05-18,Gujarat Titans,Delhi Capitals,Delhi Capitals,field,runs,4,Gujarat Titans,Brabourne Stadium,Player_101
+367,2023,Mumbai,2023-05-20,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,runs,19,Royal Challengers Bangalore,Wankhede Stadium,Player_170
+368,2023,Chennai,2023-04-28,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,tie,0,Sunrisers Hyderabad,M.A. Chidambaram Stadium,Player_21
+369,2023,Jaipur,2023-05-18,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,tie,0,,Sawai Mansingh Stadium,Player_24
+370,2023,Mohali,2023-04-15,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,no result,0,Rajasthan Royals,PCA Stadium,Player_12
