@@ -22,17 +22,15 @@ The project uses two main datasets:
 
 ```
 ipl-sql-project/
-├── README.md                    # This file
-├── data/
-│   ├── matches.csv             # Match results and details
-│   └── deliveries.csv          # Ball-by-ball data
-├── sql/
-│   ├── 01_schema_setup.sql     # Database schema and data loading
-│   ├── 02_player_analysis.sql  # Batting and bowling performance metrics
-│   ├── 03_team_performance.sql # Team win-loss records and head-to-head
-│   ├── 04_venue_analysis.sql   # Venue characteristics and advanced KPIs
-│   └── 05_advanced_kpis.sql    # Complex analytics and insights
-└── IPL-Cricket-SQL-Project.md  # Detailed business insights report
+├── README.md                   # This file
+├── LICENSE                     # MIT license
+├── matches.csv                 # Match results and details
+└── deliveries.csv              # Ball-by-ball data
+├── schema_setup.sql            # Database schema and data loading
+├── player_analysis.sql         # Batting and bowling performance metrics
+├── team_performance.sql        # Team win-loss records and head-to-head
+├── venue_analysis.sql          # Venue characteristics and advanced KPIs
+└── advanced_kpis.sql           # Complex analytics and insights
 ```
 
 ### Prerequisites
@@ -74,6 +72,7 @@ GROUP BY batsman
 HAVING COUNT(*) >= 50
 ORDER BY total_runs DESC;
 ```
+
 
 ### Venue Batting vs Bowling Advantage
 ```sql
