@@ -4,7 +4,7 @@
 
 This project demonstrates advanced SQL analytics capabilities using Indian Premier League (IPL) cricket data. It showcases comprehensive data analysis skills essential for business and data analyst roles, focusing on player performance, team strategies, venue insights, and match outcome predictions.
 
-![Dashboard](Example_Images/dashboard.png)
+![Dashboard](Example_Images/Dashboard.png)
 
 ## 📊 Dataset Description
 
@@ -77,7 +77,7 @@ GROUP BY batsman
 HAVING COUNT(*) >= 50
 ORDER BY total_runs DESC;
 ```
-![Query 1](Example_images/query_1.png)
+![Query 1](Example_Images/Query_1.png)
 
 ### Venue Batting vs Bowling Advantage
 ```sql
@@ -87,7 +87,7 @@ FROM matches
 GROUP BY venue
 HAVING COUNT(*) >= 5;
 ```
-![Query 2](Example_images/query_2.png)
+![Query 2](Example_Images/Query_2.png)
 ## 💼 Business Value
 
 This project demonstrates:
