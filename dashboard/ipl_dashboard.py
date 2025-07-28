@@ -40,8 +40,8 @@ st.markdown("""
 @st.cache_data
 def load_data():
     try:
-        matches = pd.read_csv('matches.csv')
-        deliveries = pd.read_csv('deliveries.csv')
+        matches = pd.read_csv('data/matches.csv')
+        deliveries = pd.read_csv('data/deliveries.csv')
         matches['date'] = pd.to_datetime(matches['date'])
         return matches, deliveries
     except FileNotFoundError:
