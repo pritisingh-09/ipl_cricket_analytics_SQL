@@ -58,7 +58,6 @@ deliveries['is_wicket'] = deliveries['player_dismissed'].notna().astype(int)
 
 # Main title
 st.markdown('<h1 class="main-header">🏏 IPL Cricket Analytics Dashboard</h1>', unsafe_allow_html=True)
-st.markdown("**Advanced SQL Project Visualization** | *Interactive Business Intelligence for Cricket Strategy*")
 
 # Sidebar filters
 st.sidebar.header("📊 Filter Options")
