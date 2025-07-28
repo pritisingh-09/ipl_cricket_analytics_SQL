@@ -26,13 +26,19 @@ The project uses two main datasets:
 ipl_cricket_analysis_SQL/
 ├── README.md                   # This file
 ├── LICENSE                     # MIT license
-├── matches.csv                 # Match results and details
-└── deliveries.csv              # Ball-by-ball data
-├── schema_setup.sql            # Database schema and data loading
-├── player_analysis.sql         # Batting and bowling performance metrics
-├── team_performance.sql        # Team win-loss records and head-to-head
-├── venue_analysis.sql          # Venue characteristics and advanced KPIs
-└── advanced_kpis.sql           # Complex analytics and insights
+|__notebook
+   |_ipl_cricket_analytics.ipynb
+|__dashboard
+   |_ipl_dashboard.py
+|__data
+   ├── matches.csv                 # Match results and details
+   └── deliveries.csv              # Ball-by-ball data
+|__sql
+   ├── schema_setup.sql            # Database schema and data loading
+   ├── player_analysis.sql         # Batting and bowling performance metrics
+   ├── team_performance.sql        # Team win-loss records and head-to-head
+   ├── venue_analysis.sql          # Venue characteristics and advanced KPIs
+   └── advanced_kpis.sql           # Complex analytics and insights
 |__ Example_images/ Query_1.png
                   / Query_2.png
                   / Dashboard.png
